@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: false
-draft: true
+draft: false
 categories:
     - rehber
 description: Hollanda’da alışveriş yaparken bütçenizi en verimli şekilde kullanmak ve uygun fiyatlı ürünler bulmak mümkün. Bu rehberde, Hollanda'da alışveriş yaparken paranızın karşılığını en iyi şekilde almanızı sağlayacak ipuçlarına yer verdik. Hem fiziksel mağazalarda hem de çevrimiçi platformlarda en ucuza nasıl ürün bulabileceğinizi keşfedin.
