@@ -1,6 +1,5 @@
 ---
-title: Example Category
-description: A description of this category
+title: Rehber
 image:
 
 # Badge style

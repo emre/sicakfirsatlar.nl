@@ -16,9 +16,7 @@ url = "https://github.com/CaiJimmy/hugo-theme-stack"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "instagram"
+name = "nlsicakfirsatlar"
+url = "https://instagram.com/nl_sicakfirsatlar"
 
-[social.params]
-icon = "brand-twitter"
