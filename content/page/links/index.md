@@ -1,5 +1,6 @@
 ---
 title: Bağlantılar
+slug: links
 links:
   - title: CashbackXL
     description: Cashback Platformu. Yapacağınız bla bla.

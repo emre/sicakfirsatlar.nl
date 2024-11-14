@@ -5,6 +5,7 @@ date: 2024-11-13T20:49:21+01:00
 image: 
 math: 
 license: 
+slug: "hollanda-da-alisveris-yapmanin-incelikleri"
 hidden: false
 comments: false
 draft: false
