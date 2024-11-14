@@ -7,16 +7,10 @@
 #icon = "home"
 #newtab = true
 
-[[social]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
-
-[social.params]
-icon = "brand-github"
 
 [[social]]
 identifier = "instagram"
 name = "nlsicakfirsatlar"
 url = "https://instagram.com/nl_sicakfirsatlar"
-
+[social.params]
+icon = "brand-instagram"
