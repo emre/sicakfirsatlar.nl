@@ -34,7 +34,8 @@ Hollanda’da sağlık sigortası (zorgverzekering) almak zorunludur. Her sene b
 
 ## Zorgkiezer.nl Kullanımı
 
-Zorgkiezer.nl, sağlık sigortalarını karşılaştırmak için kullanılan popüler bir platformdur.
+[Zorgkiezer.nl](https://www.zorgkiezer.nl/), sağlık sigortalarını karşılaştırmak için kullanılan popüler bir platformdur. [CashbackXL](https://www.cashbackxl.nl/webshops/zorgkiezer) üzerinden ZorgKiezer'den bir sağlık sigortası seçerseniz 27.50 EUR cashback imkanı da mevcuttur. 
+Eğer CashbackXL üyesi degilseniz [bu](https://www.cashbackxl.nl/?share=emreyil-75bed) adresten üye olabilirsiniz.
 
 - **Avantajları:**
   - Tüm sigorta şirketlerini bir arada görme imkânı.
@@ -65,6 +66,7 @@ Zorgkiezer.nl, sağlık sigortalarını karşılaştırmak için kullanılan pop
   - İngilizce destek.
   - Esnek ve ihtiyaçlarınıza uygun sigorta paketleri.
   - Diğer sigorta sağlayıcılarına kıyasla daha düşük maliyet.
+  - Own-rizico olmaması
 
 ---
 
