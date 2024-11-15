@@ -1,5 +1,5 @@
 ---
-title: "Cashback ve Hediye Çekleri: Hollanda'da sağlık sigortası seçiminde dikkat edilmesi gerekenler"
+title: "Hollanda'da sağlık sigortası seçiminde dikkat edilmesi gerekenler"
 slug: "hollanda-da-saglik-sigortasi"
 description: 
 date: 2024-11-13T20:49:21+01:00
@@ -18,7 +18,7 @@ tags:
 
 # Hollanda’da Sağlık Sigortası Alırken Dikkat Edilmesi Gerekenler
 
-Hollanda’da sağlık sigortası (zorgverzekering) almak zorunludur. Expat olarak Hollanda’ya taşındığınızda sağlık sigortası sistemine dahil olmak, sağlık masraflarınızı güvence altına almak ve yasal düzenlemelere uygun hareket etmek için önemlidir. İşte bu süreçte dikkat edilmesi gereken temel konular:
+Hollanda’da sağlık sigortası (zorgverzekering) almak zorunludur. Her sene başlamadan önce sağlık sigortanızı değiştirme hakkına sahipsiniz. Expat olarak Hollanda’ya taşındığınızda sağlık sigortası sistemine dahil olmak, sağlık masraflarınızı güvence altına almak ve yasal düzenlemelere uygun hareket etmek için önemlidir. İşte bu süreçte dikkat edilmesi gereken temel konular:
 
 ---
 
