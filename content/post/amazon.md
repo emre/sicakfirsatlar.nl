@@ -12,8 +12,11 @@ draft: false
 categories:
     - rehber
 description: Hollanda’da güvenli ve akıllı alışveriş yapmanın püf noktaları.
-
- 
+tags:
+    - amazon
+    - hollanda
+    - e-ticaret
+    - ipuclari
 ---
 
  Amazon, sağlamış olduğu kolaylıklar, müşteriyi her zaman koruması, iade ve ürün desteği gibi konularda kullanıcıya sahip çıkmasından dolayı birçoğumuzun tercih ettiği bir e-ticaret sitesi. Bu yazıda, Amazon'dan alışveriş yaparken dikkat edilmesi gerekenleri listeledik.
