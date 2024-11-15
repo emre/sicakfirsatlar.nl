@@ -59,3 +59,5 @@ Amazon üzerinden alışveriş yaparken, bazı platformlar aracılığıyla **ca
 
 Bu platformları kullanarak alışverişlerinizden ekstra tasarruf edebilirsiniz. 
 
+> **Daha fazla bilgi**: Cashback hakkında daha fazla bilgi almak ve diğer platformları keşfetmek için [Cashback Rehberi](https://sicakfirsatlar.nl/p/cashback-rehberi) yazımıza göz atabilirsiniz.
+
