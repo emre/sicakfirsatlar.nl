@@ -10,7 +10,7 @@ hidden: false
 comments: false
 draft: false
 categories:
-    - rehber
+    - "e-ticaret platformları"
 description: Hollanda’da güvenli ve akıllı alışveriş yapmanın püf noktaları.
 tags:
     - amazon
