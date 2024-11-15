@@ -77,7 +77,6 @@ For more information on managing cookies, visit [All About Cookies](https://www.
 Our website may include third-party services that use cookies, such as:
 
 - Google Analytics
-- [List any other third-party services]
 
 These third-party cookies are governed by the privacy policies of the respective providers.
 
