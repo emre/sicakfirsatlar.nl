@@ -2,7 +2,7 @@
 title: "Hollanda'da sağlık sigortası seçiminde dikkat edilmesi gerekenler"
 slug: "hollanda-da-saglik-sigortasi"
 description: 
-date: 2024-11-13T20:49:21+01:00
+date: 2024-11-15T20:49:21+01:00
 image: 
 math: 
 license: 
@@ -15,8 +15,6 @@ tags:
     - saglik-sigortasi
 
 ---
-
-# Hollanda’da Sağlık Sigortası Alırken Dikkat Edilmesi Gerekenler
 
 Hollanda’da sağlık sigortası (zorgverzekering) almak zorunludur. Her sene başlamadan önce sağlık sigortanızı değiştirme hakkına sahipsiniz. Expat olarak Hollanda’ya taşındığınızda sağlık sigortası sistemine dahil olmak, sağlık masraflarınızı güvence altına almak ve yasal düzenlemelere uygun hareket etmek için önemlidir. İşte bu süreçte dikkat edilmesi gereken temel konular:
 
@@ -32,10 +30,31 @@ Hollanda’da sağlık sigortası (zorgverzekering) almak zorunludur. Her sene b
 
 ---
 
+## “Eigen Risico” (Own Risk) Nedir?
+
+- **Eigen Risico:**  
+  Temel sağlık sigortasında, yıllık olarak cebinizden ödemeniz gereken minimum tutardır. 2024 yılı için bu tutar **€385** olarak belirlenmiştir.
+
+- Bu tutar, sigortanızın kapsadığı sağlık masraflarının ilk kısmını sizin ödemeniz gerektiği anlamına gelir. Ancak aile hekimi masrafları bu kapsamın dışındadır.
+
+- **İpucu:**  
+  Daha düşük prim ödemek için kendi riskinizi artırabilirsiniz (örn: €885’e kadar çıkabilir), ancak bu durumda sağlık masrafı çıktığında daha fazla ödeme yapmanız gerekir.
+
+
+---
+
+## Anlaşmalı hastaneler
+
+Bazı sigorta şirketleri olağandan ucuz fiyat sunuyorsa, anlaşmalı olduğu hastaneleri kontrol edin. Bunu sigorta detaylarından öğrenebilirsiniz. Eğer limitli anlaşmalı bir sigorta tercih ederseniz, en azından yaşadınız şehirde yakınınızda hangi anlaşmalı hastaneler var kontrol etmek iyi olacaktır.
+
+
+---
+
 ## Zorgkiezer.nl Kullanımı
 
-[Zorgkiezer.nl](https://www.zorgkiezer.nl/), sağlık sigortalarını karşılaştırmak için kullanılan popüler bir platformdur. [CashbackXL](https://www.cashbackxl.nl/webshops/zorgkiezer) üzerinden ZorgKiezer'den bir sağlık sigortası seçerseniz 27.50 EUR cashback imkanı da mevcuttur. 
-Eğer CashbackXL üyesi degilseniz [bu](https://www.cashbackxl.nl/?share=emreyil-75bed) adresten üye olabilirsiniz.
+[Zorgkiezer.nl](https://www.zorgkiezer.nl/), sağlık sigortalarını karşılaştırmak için kullanılan popüler bir platformdur. 
+
+> [CashbackXL](https://www.cashbackxl.nl/webshops/zorgkiezer) üzerinden ZorgKiezer'den bir sağlık sigortası seçerseniz 27.50 EUR cashback imkanı da mevcut. Eğer CashbackXL üyesi degilseniz [bu](https://www.cashbackxl.nl/?share=emreyil-75bed) adresten üye olabilirsiniz.
 
 - **Avantajları:**
   - Tüm sigorta şirketlerini bir arada görme imkânı.
@@ -60,29 +79,19 @@ Eğer CashbackXL üyesi degilseniz [bu](https://www.cashbackxl.nl/?share=emreyil
 
 ## Expatlar için Loonzorg
 
-- **Loonzorg**, expatlar için uygun fiyatlı sağlık sigortaları sunar. Özellikle kısa süreli kalanlar veya temel ihtiyaçları olanlar için cazip bir seçenektir. En büyük özelliği expat statüsünde olduğunuz sürece own-risk ödemiyor olmanızdır.
+- **[Loonzorg](https://www.loonzorg.com/)**, expatlar için uygun fiyatlı sağlık sigortaları sunar. Özellikle kısa süreli kalanlar veya temel ihtiyaçları olanlar için cazip bir seçenektir. En büyük özelliği expat statüsünde olduğunuz sürece own-risk ödemiyor olmanızdır.
 
 - **Avantajları:**
   - İngilizce destek.
   - Esnek ve ihtiyaçlarınıza uygun sigorta paketleri.
   - Diğer sigorta sağlayıcılarına kıyasla daha düşük maliyet.
   - Own-rizico olmaması
+  - Acil durumlarda diş tedavisi için 200 EUR'a kadar bütçe
+
 
 ---
 
-## “Eigen Risico” (Own Risk) Nedir?
-
-- **Eigen Risico:**  
-  Temel sağlık sigortasında, yıllık olarak cebinizden ödemeniz gereken minimum tutardır. 2024 yılı için bu tutar **€385** olarak belirlenmiştir.
-
-- Bu tutar, sigortanızın kapsadığı sağlık masraflarının ilk kısmını sizin ödemeniz gerektiği anlamına gelir. Ancak aile hekimi masrafları bu kapsamın dışındadır.
-
-- **İpucu:**  
-  Daha düşük prim ödemek için kendi riskinizi artırabilirsiniz (örn: €885’e kadar çıkabilir), ancak bu durumda sağlık masrafı çıktığında daha fazla ödeme yapmanız gerekir.
-
----
-
-## Sigorta Seçerken Dikkat Edilmesi Gerekenler
+## Özet: Sigorta Seçerken Dikkat Edilmesi Gerekenler
 
 - **Kendi İhtiyaçlarınızı Belirleyin:**  
   Fizyoterapi, diş tedavisi veya özel ilaç ihtiyaçlarınız varsa ekstra paketlere yönelin.
@@ -98,4 +107,3 @@ Eğer CashbackXL üyesi degilseniz [bu](https://www.cashbackxl.nl/?share=emreyil
 ## Sonuç
 
 Hollanda’da sağlık sigortası seçimi yaparken ihtiyaçlarınızı iyi analiz etmek ve **Zorgkiezer** gibi araçlarla sigortaları karşılaştırmak önemlidir. Expatlar için özel olarak sunulan **Loonzorg** gibi seçenekler uygun maliyetli çözümler sunabilir. Ayrıca, temel sigorta ve ek paketleri dengeli bir şekilde seçerek hem ekonomik hem de kapsamlı bir sağlık güvencesine sahip olabilirsiniz.
-
