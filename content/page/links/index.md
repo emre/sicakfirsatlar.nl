@@ -5,7 +5,7 @@ links:
 
   - title: CashbackXL
     description: Cashback Platformu.
-    website: https://www.cashbackxl.nl?share=emreyil-75bed
+    website: https://www.cashbackxl.nl?share=yunusem-4184c
   - title: Shopbuddies
     description: Cashback Platformu (Son dönemde Woolsocks tarafından satın alındı.)
     website: https://www.shopbuddies.nl
