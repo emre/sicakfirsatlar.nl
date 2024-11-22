@@ -9,7 +9,7 @@ license:
 hidden: false
 comments: false
 draft: false
-description: Hollanda’da güvenli ve akıllı alışveriş yapmanın püf noktaları.
+description: Black-Friday haftası en çok beğendiğimiz ürünlerden bir seçki.
 tags:
     - amazon
     - hollanda
