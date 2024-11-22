@@ -2,7 +2,7 @@
 title: "Black Friday 2024: En İyi İndirim ve Fırsatlar"
 slug: "black-friday-2024-firsatlar"
 description: 
-date: 2024-11-13T20:49:21+01:00
+date: 2024-11-21T10:49:21+01:00
 image: 
 math: 
 license: 
