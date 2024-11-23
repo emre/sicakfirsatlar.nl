@@ -25,6 +25,7 @@ tags:
 
 ## Amazon Prime Üyeliği ve Avantajları
 Amazon Prime, **hızlı ve ücretsiz kargo**, **Prime Video erişimi**, ve **özel kampanyalar** gibi birçok avantaj sağlar. Hollanda'da Amazon Prime'a üye olarak hem Amazon.nl’deki özel fırsatlardan yararlanabilir hem de ücretsiz kargo seçeneklerinden faydalanabilirsiniz. Ancak unutmayın, Amazon Prime üyeliğiniz **yalnızca abone olduğunuz ülke için geçerlidir**. Yani, Amazon.nl Prime üyeliği, Amazon.de veya diğer Amazon sitelerinde aynı avantajları sağlamaz.
+Amazon Hollanda Prime üyesi olmak için hemen [tıklayın](https://www.amazon.nl/probeerprime?tag=sicakfirsat05-21).
 
 > **İpucu**: Amazon.de veya diğer Amazon sitelerinden alışveriş yapmak isterseniz, kampanya dönemlerinde geçici olarak o ülkenin Prime üyeliğini satın alarak avantajlardan yararlanabilirsiniz.
 
