@@ -70,6 +70,8 @@ Bazı sigorta şirketleri olağandan ucuz fiyat sunuyorsa, anlaşmalı olduğu h
 
 ## Fizyoterapi (Fysio) ve Diş (Tandarts) Paketleri
 
+<center><img src="https://i.imgur.com/n3sW8mG.png"></center>
+
 - **Fizyoterapi:**  
   Temel sigorta sadece belirli kronik durumlarda fizyoterapiyi kapsar. Eğer düzenli fizik tedaviye ihtiyaç duyuyorsanız ekstra bir fizyo paketi eklemelisiniz.
 
