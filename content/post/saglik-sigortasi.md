@@ -17,6 +17,8 @@ tags:
 
 Hollanda’da sağlık sigortası (zorgverzekering) almak zorunludur. Her sene başlamadan önce sağlık sigortanızı değiştirme hakkına sahipsiniz. Expat olarak Hollanda’ya taşındığınızda sağlık sigortası sistemine dahil olmak, sağlık masraflarınızı güvence altına almak ve yasal düzenlemelere uygun hareket etmek için önemlidir. İşte bu süreçte dikkat edilmesi gereken temel konular:
 
+<center><img src="https://i.imgur.com/zQd8fJw.png"></center>
+
 ---
 
 ## Sağlık Sigortası Türleri: Temel (Basis) ve Ekstra Paketler
