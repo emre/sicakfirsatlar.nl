@@ -109,7 +109,7 @@ tags:
 
 - **Fiyat**: 69 EUR
 
-  ## Garmin Fenix 8
+## Garmin Fenix 8
 
   [Bu ürüne hemen göz atın!](https://partner.bol.com/click/click?p=2&t=url&s=1408234&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fp%2Fgarmin-fenix-8-43mm-amoled-multisport-smartwatch-100-sport-apps-led-zaklamp-microfoon-en-speaker-10atm-waterdicht-tot-10-dagen-batterij-zilverkleurig-wit%2F9300000181435254%2F&name=Garmin%20f%C4%93nix%208%20-%2043mm%20-%20AMOLED%20Multisport%20Smar)
 
