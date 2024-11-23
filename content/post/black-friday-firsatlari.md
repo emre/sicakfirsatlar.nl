@@ -99,6 +99,18 @@ tags:
 - **Fiyat**: 369 EUR.
 - Eger sepete [Bu veya benzer bir üründen 2 adet eklenirse](https://www.amazon.nl/-/en/OFFICER-PRODUCTS-Folder-elastic-Office/dp/B019LZZTNW?dib=eyJ2IjoiMSJ9.kVS2n62kRqAF0VFNGZpi3tHYIJQc-gyMdzQu7GnZ7I1X5c9HE7PvhCP80g5nxJjE8pnH2hPmc32HzV3bgyWn5eNoscS_nU-3OdXxpAfIniE2s10ionXU8z4HcKo3bKNirGH_NmLiqU8vIpB1oBW_m1VhgJo8gMfbvmEuJomcb6LKpVviR6xkAJSwyvkI0mwWMCEsvXTUrmpAp3fQfnKU-G_XZLDUx0vLn-LQGVoBeAKGXW6XhQYFRGYbMHJHOyKLI5wcZivAD-PGsgJR4JzLSxCYXq9GBX2d46ofTKX53rY.b4xQEH1-bCHuNHmlh4LMthAAYkNutFqjbcIcYWWteE4&dib_tag=se&pf_rd_i=27089672031&pf_rd_m=A17D2BRD4YMT0X&pf_rd_p=8556f1eb-028d-4e9e-a77b-61e211720b14&pf_rd_r=1AR5AFTPDNHW13DTX8XJ&pf_rd_s=merchandised-search-3&qid=1732322916&refinements=p_36%3A-800&rnid=16332312031&s=office-products&sr=1-2&srs=27089672031&th=1&linkCode=ll1&tag=sicakfirsat05-21&linkId=f27d7cece3aa3a0cac0d726b8ff702cd&language=en_GB&ref_=as_li_ss_tl): 351 EUR
 
+##Amazon Fırsatı: Elgato Wave 3 ve Wave Mikrofon kolu
+
+[Elgato Wave 3 Mikrofon](https://amzn.to/4g3p7w7)
+
+- **Fiyat**: 119 EUR 
+
+[Elgato mikrofon kolu](https://amzn.to/49brQ4I)
+
+- **Fiyat**: 69 EUR 
+
+
+
 Bu Black Friday fırsatları sınırlı süreyle geçerlidir, bu yüzden acele edin ve avantajlı alışverişin tadını çıkarın!
 
 
