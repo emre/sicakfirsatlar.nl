@@ -5,7 +5,7 @@ date:
 image: 
 math: 
 license: 
-slug: "roermond-outlet-püf-noktaları"
+slug: "roermond-outlet-puf-noktaları"
 hidden: false
 comments: false
 draft: false
