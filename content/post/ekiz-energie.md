@@ -22,7 +22,7 @@ tags:
 
 Hollanda’da faaliyet gösteren **Ekiz Energie**, elektrikli araçlar için yenilikçi şarj çözümleri sunan yeni bir girişim olarak dikkat çekiyor. Şirket, sürdürülebilirliği ve kullanıcı dostu teknolojileri bir araya getirerek elektrikli araç sahiplerinin ihtiyaçlarına cevap vermeyi hedefliyor.
 
-[//]: # (<center><img src="https://i.imgur.com/tcj4vJH.png"></center>)
+<a href="https://ekizenergie.com/"><center><img src="https://i.imgur.com/tcj4vJH.png"></center></a>
 
 Ekiz Energie’nin popüler ürünlerinden biri olan **NRG Kick**, hem taşınabilirliği hem de yüksek performansıyla öne çıkıyor. Bu ürünün detaylı bir incelemesi için, **@fumelico**'nun değerlendirmesine [buradan](https://www.instagram.com/stories/highlights/18047400770046076/) ulaşabilirsiniz.
 
