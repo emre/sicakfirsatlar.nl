@@ -10,6 +10,8 @@ hidden: false
 comments: false
 draft: false
 description: Black-Friday haftası en çok beğendiğimiz ürünlerden bir seçki.
+category:
+    - reklam
 tags:
     - indirim
     - ekizenergie
