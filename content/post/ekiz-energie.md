@@ -2,7 +2,7 @@
 title: "Ekiz Enerji ve yenilikçi elektrikli araç şarj çözümleri"
 slug: "ekiz-energy"
 description: 
-date: 2024-11-26T10:49:21+01:00
+date: 2024-11-25T10:49:21+01:00
 image: 
 math: 
 license: 
