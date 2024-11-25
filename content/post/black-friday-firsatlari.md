@@ -116,6 +116,35 @@ tags:
 - **Çıktıgından beri gördüğü en düşük fiyat**: 799 EUR
 - Koşu, bisiklet, yüzme gibi sporlarla ilgileniyor ve her gün sarj etmeyeceğiniz bir spor saati arıyorsanız rakibi az.
 
+  ## Maxi-Cosi Titan i-Size Çocuk Oto Koltuğu
+[Bu ürüne hemen göz atın!](https://amzn.to/3OqxYwi)
+
+- **Ürün**: 15 aydan 12 yaşa kadar kullanım, gelişmiş güvenlik standartları ve konforlu tasarım.
+- **Fiyat**: 159 Euro (Tavsiye edilen satış fiyatı: 249,99 Euro)
+
+## Philips 5400 Serisi Tam Otomatik Espresso Makinesi
+[Bu ürüne hemen göz atın!](https://amzn.to/3V6KmW0)
+
+- **Ürün**: LatteGo süt sistemi, entegre öğütücü ve sezgisel dokunmatik ekran ile 12 farklı kahve çeşidi.
+- **Fiyat**: 499 Euro (Önceki fiyat: 539 Euro)
+
+## Sage - The Barista Express - Tam Otomatik Espresso Makinesi
+[Bu ürüne hemen göz atın!](https://amzn.to/411wlg8)
+
+- **Ürün**: Dahili öğütücü, manuel süt köpürtücü ve 16 öğütme ayarıyla profesyonel kahve deneyimi.
+- **Fiyat**: 479 Euro (Önerilen satış fiyatı: 729,95 Euro)
+
+## Philips Multigroom 7000 Serisi All-in-One Trimmer (Model MG7930/15)
+[Bu ürüne hemen göz atın!](https://amzn.to/3CGEA78)
+
+- **Ürün**: Yüz, saç ve vücut için 14'ü 1 arada bakım cihazı; 21 uzunluk ayarı (0,5-16 mm) ile hassas ve çok yönlü kullanım.
+- **Fiyat**: 45,99 Euro (Önerilen satış fiyatı: 74,99 Euro)
+
+## Anker 313 USB-C'den USB-C'ye Kablo (1,8 Metre, 2'li Paket)
+[Bu ürüne hemen göz atın!](https://amzn.to/3AZXOUJ)
+
+- **Ürün**: Hızlı şarj imkanı sunan Type-C şarj kablosu.
+- **Fiyat**: 9,99 Euro (Önerilen satış fiyatı: 14,99 Euro)
   
 
 Bu Black Friday fırsatları sınırlı süreyle geçerlidir, bu yüzden acele edin ve avantajlı alışverişin tadını çıkarın!
