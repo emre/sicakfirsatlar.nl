@@ -116,7 +116,7 @@ tags:
 - **Çıktıgından beri gördüğü en düşük fiyat**: 799 EUR
 - Koşu, bisiklet, yüzme gibi sporlarla ilgileniyor ve her gün sarj etmeyeceğiniz bir spor saati arıyorsanız rakibi az.
 
-  ## Maxi-Cosi Titan i-Size Çocuk Oto Koltuğu
+## Maxi-Cosi Titan i-Size Çocuk Oto Koltuğu
 [Bu ürüne hemen göz atın!](https://amzn.to/3OqxYwi)
 
 - **Ürün**: 15 aydan 12 yaşa kadar kullanım, gelişmiş güvenlik standartları ve konforlu tasarım.
